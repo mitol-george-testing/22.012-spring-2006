@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "661c38bf-20c2-5455-42f9-a318d2ba7d6b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Seminar: Fusion and Plasma Physics",
+  "course_description": "This course uses lectures and discussion to introduce the range of topics relevant to plasma physics and fusion engineering. An introductory discussion of the economic and ecological motivation for the development of fusion power is also presented. Contemporary magnetic confinement schemes, theoretical questions, and engineering considerations are presented by expert guest lecturers. Students enrolled in the course also tour the Plasma Science and Fusion Center experimental facilities.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "22.S27",
+  "primary_course_number": "22.012",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
